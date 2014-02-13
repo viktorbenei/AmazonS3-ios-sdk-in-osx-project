@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A0F79EA6-8C8D-48FC-85B5-1E2CC9F2DE59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AmazonS3foriOSinOSX</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD1A39E0-8407-413B-8E53-F6E6E9E4F742</key>
+		<string>https://github.com/viktorbenei/AmazonS3-ios-sdk-in-osx-project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AmazonS3foriOSinOSX/AmazonS3foriOSinOSX.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD1A39E0-8407-413B-8E53-F6E6E9E4F742</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/viktorbenei/AmazonS3-ios-sdk-in-osx-project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD1A39E0-8407-413B-8E53-F6E6E9E4F742</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD1A39E0-8407-413B-8E53-F6E6E9E4F742</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AmazonS3-ios-sdk-in-osx-project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
